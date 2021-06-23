@@ -1,0 +1,41 @@
+= Dokumen Aturan Akses Keamanan Fisik Teknologi Informasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Tanggal Pembuatan Akses
+
+== Nama Perangkat yang Diterapkan Pengaturan Akses
+
+== Personil yang Diberikan Akses dengan Tujuan, Rentang Waktu, dan Lokasi Akses
+
+== Tahapan Pengaturan Akses Pada Sistem Keamanan
+
+== Bukti Pengaturan Akses (Foto / _Screenshot_ )
+
+== Lember Persetujuan
+
+== Lampiran : 
+
+form permintaan akses
